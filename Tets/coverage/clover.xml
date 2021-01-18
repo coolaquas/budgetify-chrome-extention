@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1592827830158" clover="3.2.0">
+  <project timestamp="1592827830158" name="All files">
+    <metrics statements="8" coveredstatements="7" conditionals="6" coveredconditionals="6" methods="4" coveredmethods="3" elements="18" coveredelements="16" complexity="0" loc="8" ncloc="8" packages="1" files="3" classes="3"/>
+    <file name="all.js" path="/home/samrat/Desktop/All Presentation/extention + Bookmarklet/Budgetify/Tets/all.js">
+      <metrics statements="4" coveredstatements="3" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="9" type="cond" truecount="3" falsecount="0"/>
+    </file>
+    <file name="fixedEncodeURI.js" path="/home/samrat/Desktop/All Presentation/extention + Bookmarklet/Budgetify/Tets/fixedEncodeURI.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+    </file>
+    <file name="isInt.js" path="/home/samrat/Desktop/All Presentation/extention + Bookmarklet/Budgetify/Tets/isInt.js">
+      <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="10" type="cond" truecount="3" falsecount="0"/>
+    </file>
+  </project>
+</coverage>
